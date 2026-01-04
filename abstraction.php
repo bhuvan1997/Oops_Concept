@@ -1,6 +1,6 @@
 <!-- Abstraction means show only neccessary details hide complex logics -->
 <!-- Abstraction can be done by 2 ways : Abstract Class, Interface -->
-<!-- Abstract class ka object nahi ban sakta -->
+<!-- Object of abstract class cannot be created -->
 
 <?php
 
