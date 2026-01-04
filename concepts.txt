@@ -1,0 +1,27 @@
+PHP OOPs Roadmap (Basic → Advanced)
+
+What is OOP?
+    - OOP (Object-Oriented Programming) is a way of structuring code using objects that contain data (properties) and behavior (methods).
+    Why OOP?
+    - Code reusability
+    - Maintainability
+    - Security
+    - Scalability
+
+Class & Object (Foundation)
+    - Class = Blueprint (Design)
+        Like:
+            House drawing
+            Car design
+
+    - Object = Instance of a class
+        Like:
+            Ram is a human
+            Sita is a human
+
+$this ?
+    - $this means current object
+
+Constructor (Auto Start) ?
+    - Constructor runs automatically when object is created
+
