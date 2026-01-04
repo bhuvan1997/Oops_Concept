@@ -6,7 +6,7 @@ class Human {
     public $age;
 
     public function talk(){
-        echo "Human can talk";
+        echo "Human can talks";
     }
 
     public function human_description(){
